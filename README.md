@@ -29,6 +29,10 @@ Erros:
 
 **Test:**
 
+Run Test:
+
+
+    python3 example/test.py
 
 
 
